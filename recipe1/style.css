@@ -200,6 +200,18 @@ h3 {
     }
 }
 
+@media (max-width:450px){
+    .recipe-details {
+        top: 55%;
+        left: 50%;
+        width: 80%;
+        height: 60%;
+    }
+    .recipe-details-content {
+        padding: 10px;
+    }
+}
+
 @media (max-width:390px) {
 
     .recipe-container h1 {
@@ -250,6 +262,15 @@ h3 {
     button[type="submit"] {
         font-size: 15px;
         padding: 9px 9px;
+    }
+    .recipe-details {
+        top: 55%;
+        left: 50%;
+        width: 90%;
+        height: 60%;
+    }
+    .recipe-details-content {
+        padding: 10px;
     }
 }
 
