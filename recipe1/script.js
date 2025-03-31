@@ -77,6 +77,13 @@ recipeCloseBtn.addEventListener("click", () => {
 searchBtn.addEventListener("click", (e) => {
     e.preventDefault();
     const searchInput = searchBox.value.trim();
+    if(!searchInput){
+        recipeContainer.innerHTML = `<h2>Type the meal in the search box !</h2>`;
+        recipeContainer.style.color = "red"
+        return;
+    }
     fetchRecipes(searchInput);
     // console.log("button clicked");
 });
+
+ 
