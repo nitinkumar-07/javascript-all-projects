@@ -93,18 +93,25 @@ button{
         width: 80%;
         height: auto;
     }
+    .input-box input{
+        padding: 10px 5px;
+        font-size: 20px;
+    }
+    button{
+        font-size: 20px;
+    }
 }
 
 @media(max-width:420px){
     .container{
-        width: 80%;
+        width: 90%;
         height: auto;
         padding: 20px 0px;
     }
 
     .result{
-        width: 50px;
-        height: 50px;
+        width: 70px;
+        height: 70px;
         font-size: 15px;
     }
     .heading{
@@ -117,10 +124,19 @@ button{
     }
 }
 
-@media(max-width:360px){
+@media(max-width:380px){
     .container{
         width: 90%;
         height: auto;
         padding: 20px 0px;
+    }
+    .result{
+        width: 70px;
+        height: 70px;
+        font-size: 15px;
+    }
+    .input-box input{
+        padding: 10px 5px;
+        font-size: 16px;
     }
 }
