@@ -59,7 +59,7 @@ body{
     }
 }
 
-@media (max-width:390px){
+@media (max-width:360px){
     .timerdisplay{
         font-size: 30px;
     }
