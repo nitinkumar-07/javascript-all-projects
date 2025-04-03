@@ -12,11 +12,11 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: rgba(0, 0 , 0, 0.7);
+    background: rgba(1, 31, 31, 0.838);
     color: #fff;
 }
 .stopwatch{
-    background-color: rgba(0, 0 , 0, 0.9);
+    background-color: rgba(57, 4, 18, 0.9);
     padding: 15px 25px;
     border-radius: 10px;
 }
@@ -48,5 +48,24 @@ body{
 #reset-btn:active{
     background-color:rgb(88, 91, 146);
     transition: all ease 0.17s;
+}
+
+@media (max-width:390px){
+    .timerdisplay{
+        font-size: 40px;
+    }
+    .btn{
+        font-size: 16px;
+    }
+}
+
+@media (max-width:390px){
+    .timerdisplay{
+        font-size: 30px;
+    }
+    .btn{
+        font-size: 12px;
+        padding: 12px 22px;
+    }
 }
 
