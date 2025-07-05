@@ -26,5 +26,7 @@ A clean and functional stopwatch web app built using **HTML**, **CSS**, and **Ja
 https://stopwatch-jsc.netlify.app/ 
 
 🙏 Acknowledgements
+
 .Inspired by YouTube tutorial projects
+
 .Practice project as part of learning JavaScript basics
