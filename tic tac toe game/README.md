@@ -47,14 +47,19 @@ tic-tac-toe-game/
 5. Click "Restart" to play again!
 
 🙌 Acknowledgements
+
 . Project developed as part of self-learning and practice
+
 
 . Inspired by classic paper-pencil game
 
 📧 Contact
+
 Made with ❤️ by Nitin Kumar
 
+
 . GitHub: https://github.com/nitinkumar-07/Javascript-projects-
+
 
 . LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/
 
