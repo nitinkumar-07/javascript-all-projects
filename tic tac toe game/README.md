@@ -22,7 +22,7 @@ https://tic-tac-toe-game-nk.netlify.app/
 ## 🛠️ Tech Stack
 
 - **HTML** – structure of the game
-- **CSS** – for styling and layout
+- **CSS** – for styling and layout(media query , responsive for mobile)
 - **JavaScript** – game logic (turns, winning, draw, etc.)
 
 ---
