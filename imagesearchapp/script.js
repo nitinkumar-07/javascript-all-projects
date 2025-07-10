@@ -7,7 +7,7 @@ const loadMoreBtn = document.querySelector(".loadmore-btn");
 
 let page = 1;
 const fetchImages = async (query, pageNo) => {
- 
+  
     try {
         if (pageNo === 1) {
             imagesContainer.innerHTML = '';
