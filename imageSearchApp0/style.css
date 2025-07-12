@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{ 
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 40px;
+    background: #001e4d;
+}
+
+header{
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+
+header h1{
+    color: #cac1c1;
+}
+
+.search-container{
+    margin-top: 20px;
+    position: relative;
+}
+
+.search-container input{
+    width: 100%;
+    font-size: 18px;
+    border: none;
+    background: #a29d9d;
+    padding: 12px 20px;
+    border-radius: 20px;
+}
+
+.search-input::placeholder{
+    color: black;
+}
+
+.search-container span{
+    position: absolute;
+    right: 12px;
+    bottom: 9px;
+}
+
+.image-container{
+    color: #cac1c1;
+    margin-block: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.image-container img{
+    width: 300px;
+    height:290px;
+}
+
+.image-container .imageDiv{
+    position: relative;
+}
+
+.imageDiv .overlayDiv{
+    position: absolute;
+    height: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0,0,0,0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: height 0.5s;
+}
+
+.imageDiv:hover .overlayDiv{
+    height: 100%;
+}
+
+.imageDiv .overlayDiv h3{
+    display: none;
+}
+
+.imageDiv:hover .overlayDiv h3{
+    display: block;
+    text-align: center;
+    color: #dfd6d6;
+}
+
+.loadmore-btn{
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    background: #1fc582;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+.loadmore-btn:active{
+    background-color: #0ae095cb;
+}
+
+main section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 50px 0;
+}
+
+@media screen and (max-width:900px) {
+    header{
+        width: 80%;
+    }
+}
