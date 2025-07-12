@@ -58,9 +58,6 @@ tic-tac-toe-game/
 Made with ❤️ by Nitin Kumar
 
 
-. GitHub: https://github.com/nitinkumar-07/Javascript-projects-
-
-
 . LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/
 
 
