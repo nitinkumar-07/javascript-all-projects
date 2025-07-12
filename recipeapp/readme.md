@@ -44,9 +44,8 @@ https://recipe-search-app004.netlify.app/
 
 Nitin Kumar
 
-https://github.com/
 
-https://www.linkedin.com/in/nitin-kumar-491813336/
+LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/
 
 
 
