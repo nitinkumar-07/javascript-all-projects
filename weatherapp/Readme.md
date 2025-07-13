@@ -20,7 +20,7 @@ Here’s a preview of the live app showing weather in **Patna**:
 - ⚡ Built using Vanilla JavaScript (no frameworks)
 
 ---
-#Live...
+🔗 Live Preview
 
 https://weather-app-714.netlify.app/
 
