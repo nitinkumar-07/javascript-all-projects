@@ -49,9 +49,13 @@ https://weather-app-714.netlify.app/
 OpenWeatherMap API
 
 🙋‍♂️ Author
+
 Nitin Kumar
+
 🎓 BCA Student | Frontend Developer Aspirant
+
 📍 Ara, Bihar
+
 📧 somukumar554@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/
