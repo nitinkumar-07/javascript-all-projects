@@ -32,13 +32,18 @@ https://weather-app-714.netlify.app/
 - **OpenWeatherMap API**
 
 📚 Learning Outcomes
+
 . Working with external REST APIs
+
 
 . Handling asynchronous JavaScript
 
+
 . Creating responsive layouts with media queries
 
+
 . Updating DOM dynamically using JS
+
 
 🔗 API Reference
 OpenWeatherMap API
