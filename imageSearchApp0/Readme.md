@@ -37,7 +37,8 @@ A simple and responsive Image Search App built using **HTML**, **CSS**, and **Ja
 
 * Building responsive UI with media queries
 
-👨‍💻 Author : Nitin Kumar
+
+👨‍💻 Nitin Kumar
 
 
 LinkedIn : https://www.linkedin.com/in/nitin-kumar-491813336/
