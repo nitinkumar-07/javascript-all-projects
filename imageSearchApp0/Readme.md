@@ -25,7 +25,7 @@ A simple and responsive Image Search App built using **HTML**, **CSS**, and **Ja
 
 ## 🚀 Live Demo
 
-
+ [Click Here to see the Live Project] : https://image-search-app-nk.netlify.app/
 
 💡 Learning Points
 * Working with public APIs
