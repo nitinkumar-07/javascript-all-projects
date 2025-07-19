@@ -3,7 +3,8 @@
 A simple and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play against a friend and take turns marking **X** and **O** until one wins or the game ties!
 
 ![Tic Tac Toe Preview]
-![Screenshot 2025-07-07 161846](https://github.com/user-attachments/assets/26538e65-f655-4e95-a9eb-dd93a83db31c)
+<img width="1910" height="896" alt="Screenshot 2025-07-07 161846" src="https://github.com/user-attachments/assets/df6de59e-7323-474b-80cb-c39a05e3064d" />
+
 
 
 ## 🔗 Live Preview
@@ -56,9 +57,6 @@ tic-tac-toe-game/
 📧 Contact
 
 Made with ❤️ by Nitin Kumar
-
-
-. GitHub: https://github.com/nitinkumar-07/Javascript-projects-
 
 
 . LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/

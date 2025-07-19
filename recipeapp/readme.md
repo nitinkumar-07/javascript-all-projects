@@ -26,7 +26,8 @@ A simple and user-friendly Recipe Search web app built using HTML, CSS, and Java
 ## 📸 Screenshots
 
 ---
-![Screenshot 2025-07-05 080914](https://github.com/user-attachments/assets/6e324910-bdd4-49c1-8191-ac93f1c471f0)
+<img width="1916" height="920" alt="Screenshot 2025-07-05 080914" src="https://github.com/user-attachments/assets/8023e735-0e78-4243-b527-bc9a75dc7f54" />
+
 
 📂 Folder Structure
 
@@ -44,9 +45,8 @@ https://recipe-search-app004.netlify.app/
 
 Nitin Kumar
 
-https://github.com/
 
-https://www.linkedin.com/in/nitin-kumar-491813336/
+LinkedIn: https://www.linkedin.com/in/nitin-kumar-491813336/
 
 
 
