@@ -7,15 +7,14 @@ A simple and responsive Image Search App built using **HTML**, **CSS**, and **Ja
 - Search for high-quality images from Unsplash.
 - Responsive design for mobile, tablet, and desktop screens.
 - Displays relevant message when no results are found.
-- Keyboard support (search with Enter key).
 - Loading images dynamically without page reload.
- <!-- replace with your live link if hosted -->
 
 ## 📸 Screenshots
 
-<!-- Replace the links with your actual screenshots -->
-![Image Search](./screenshots/image-search-1.png)
-![No Results Found](./screenshots/no-results.png)
+![Image Search] <img width="1894" height="899" alt="Screenshot 2025-07-19 075811" src="https://github.com/user-attachments/assets/f3907371-1787-4667-b5b1-6917d64781c1" />
+
+![No Results Found] <img width="1868" height="889" alt="Screenshot 2025-07-19 075900" src="https://github.com/user-attachments/assets/a9d55ae0-3ed5-47dc-8ac4-d1c1a28b9cf2" />
+
 
 ## 🛠️ Technologies Used
 
