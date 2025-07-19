@@ -15,6 +15,16 @@ const fetchImages = async (query, pageNo) => {
         const response = await fetch(url);
         const data = await response.json();
 
+        //If wrong input in search box
+        const filteredResults = data.results.filter(photo =>
+            photo.alt_description && photo.alt_description.toLowerCase().includes(query.toLowerCase())
+        );
+
+        if (filteredResults.length === 0) {
+            imagesContainer.innerHTML = "<h3>No Results Found</h3>";
+            return;
+        }
+
 
         data.results.forEach(photo => {
 
