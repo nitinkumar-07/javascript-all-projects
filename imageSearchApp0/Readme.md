@@ -27,4 +27,19 @@ A simple and responsive Image Search App built using **HTML**, **CSS**, and **Ja
 
 [Click here to see the live project]: https://image-search-app-nk.netlify.app/
 
+💡 Learning Points
+* Working with public APIs
+
+* DOM manipulation and event listeners
+
+* Handling empty results and errors
+
+* Building responsive UI with media queries
+
+👨‍💻 Author
+Nitin Kumar
+
+
+LinkedIn : https://www.linkedin.com/in/nitin-kumar-491813336/
+
 
