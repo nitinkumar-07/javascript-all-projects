@@ -55,6 +55,7 @@ https://food-delivery-web-nk.netlify.app/
 - Better file organization and project setup
 
 
-- LinkedIn: [Nitin Kumar] : https://www.linkedin.com/in/nitin-kumar-491813336/
+
+  LinkedIn: [Nitin Kumar] : https://www.linkedin.com/in/nitin-kumar-491813336/
 
 Developed with 💖 by Nitin Kumar
