@@ -7,6 +7,9 @@ A stylish and responsive food delivery website made using **HTML**, **CSS**, and
 
 This is a sleek and modern **Food Delivery App** built using core web technologies – HTML, CSS, and JavaScript – inspired by platforms like **Zomato** and **Swiggy**. The project simulates browsing dishes, adding to cart, and viewing order summary – all crafted with clean code and responsive design.
 
+## 🚀 Live Preview
+
+
 ## 🚀 Features
 
 - 🍟 **Interactive UI** with hover and transition effects  
@@ -45,9 +48,6 @@ This is a sleek and modern **Food Delivery App** built using core web technologi
 - Handling dynamic cart updates  
 - Structuring responsive pages  
 - Better file organization and project setup
-
-
-## 🚀 Live Preview
 
 
 - LinkedIn: [Nitin Kumar] : https://www.linkedin.com/in/nitin-kumar-491813336/
