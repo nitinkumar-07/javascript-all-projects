@@ -9,6 +9,7 @@ This is a sleek and modern **Food Delivery App** built using core web technologi
 
 ## 🚀 Live Preview
 
+https://food-delivery-web-nk.netlify.app/
 
 ## 🚀 Features
 
