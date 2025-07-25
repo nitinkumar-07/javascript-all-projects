@@ -38,15 +38,18 @@ This is a sleek and modern **Food Delivery App** built using core web technologi
 - **JavaScript** – Cart logic and interactivity  
 - **VS Code** – Code editor  
 
-📌 Folder Structure
 
-food-delivery-app/
-│
-├── index.html           # Main HTML File
-├── style.css            # CSS Styling
-├── script.js            # JavaScript Logic
-├── assets/              # Images and Icons
-└── README.md            # You are here!
+## 📌 What I Learned
 
+- DOM manipulation with JavaScript  
+- Handling dynamic cart updates  
+- Structuring responsive pages  
+- Better file organization and project setup
+
+
+## 🚀 Live Preview
+
+
+- LinkedIn: [Nitin Kumar] : https://www.linkedin.com/in/nitin-kumar-491813336/
 
 Developed with 💖 by Nitin Kumar
