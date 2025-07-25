@@ -30,7 +30,9 @@ This is a sleek and modern **Food Delivery App** built using core web technologi
 *Cart view with selected items*
 
 
- <img width="379" height="796" alt="Screenshot 2025-07-25 210908" src="https://github.com/user-attachments/assets/09f44343-0799-4542-bebe-31f7987cf17d" />![Mobile Responsive]
+ <img width="379" height="796" alt="Screenshot 2025-07-25 210908" src="https://github.com/user-attachments/assets/09f44343-0799-4542-bebe-31f7987cf17d" />
+ ![Mobile Responsive]
+
 
 
 <img width="377" height="794" alt="Screenshot 2025-07-25 210942" src="https://github.com/user-attachments/assets/95d32113-0e98-466e-b752-675d5a848f45" />
