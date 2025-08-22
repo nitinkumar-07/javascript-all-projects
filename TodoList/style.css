@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #001e4d;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input-container {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.input-container h1 {
+    color: #ffff;
+}
+
+.input-container input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 7px 10px;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+
+.input-container input[type="text"] {
+    width: 60%;
+}
+
+.input-container input[type="button"] {
+    background-color: #3da33d;
+    color: #ffff;
+    font-weight: 600;
+    padding: 8px 20px;
+    margin-left: 7px;
+    cursor: pointer;
+}
+
+.input-container input[type="button"]:hover {
+    background-color: #48ab48;
+}
+
+ul {
+    width: 70%;
+    max-width: 420px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+
+ul li {
+    list-style-type: none;
+    background-color: #e1d5d5;
+    padding: 7px 10px;
+    margin-block: 10px;
+    border: 0.125px solid #a19f9f;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    transition: background-color 0.3s;
+}
+
+ul li p {
+    flex-grow: 1;
+    padding: 3px;
+}
+
+ul li:hover {
+    background-color: #fbfdf9dc;
+    
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    margin-inline: 5px;
+}
+
+.deleteBtn {
+    color: red;
+}
+
+.editBtn {
+    color: #008000;
+}
+
+
+@media (max-width: 420px) {
+    .input-container {
+        margin-top: 40px;
+    }
+
+    ul {
+        width: 100%;
+        padding: 30px;     
+    }
+
+}
